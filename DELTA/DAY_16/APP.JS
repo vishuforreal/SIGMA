@@ -51,14 +51,15 @@
 // arr [0][1] = "O";
 // console.log(arr);
 
-let arr = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
-alert(arr);
-let n = prompt("Enter your index no. :");
-n=n*-1;
+// let arr = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
+// alert(arr);
+// let n = prompt("Enter your index no. :");
+// n=n*-1;
 // if(n<0 || n>arr.length-1){
 //     console.error("You are entering wrong index. This index no. is out of boundary.");
 // }
 // else{
 //     console.log((arr.slice(0,n)));
 // }
-console.log((arr.slice(n)));
+// console.log((arr.slice(n)));
+
